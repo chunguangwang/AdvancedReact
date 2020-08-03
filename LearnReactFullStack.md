@@ -22,3 +22,6 @@
   also "babel-loader": "^8.1.0" is necessary for webpack to run
 
 10 use 'time yarn webpack' to time how long webpack takes
+
+
+11 "git push -f origin master" for initial git push
