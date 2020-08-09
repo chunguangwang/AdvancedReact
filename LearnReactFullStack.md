@@ -25,3 +25,7 @@
 
 
 11 "git push -f origin master" for initial git push
+
+12 The version of EJS you're likely using in Node is not the same as the version you see on Google code; in the Node version, <%= escapes the HTML going into the buffer, while <%- does not. source
+
+13 put 'debugger:' to react code, chrome willl stop there for debugging
