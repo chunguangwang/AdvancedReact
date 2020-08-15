@@ -29,3 +29,5 @@
 12 The version of EJS you're likely using in Node is not the same as the version you see on Google code; in the Node version, <%= escapes the HTML going into the buffer, while <%- does not. source
 
 13 put 'debugger:' to react code, chrome willl stop there for debugging
+
+14 module.exports = {className} is the way js/nodejs export class for usage in anothr js file !!!
